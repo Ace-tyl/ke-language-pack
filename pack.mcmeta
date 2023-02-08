@@ -1,0 +1,18 @@
+{
+    "pack": {
+        "pack_format": 12,
+        "description": "§e这是一个神奇的语言包\n§3USTC Metaverse Club"
+    },
+    "language": {
+        "zh_ustc": {
+            "name": "科体中文",
+            "region": "妮可",
+            "bidirectional": false
+        }
+    },
+    "author": [
+        "SodiumCl10",
+        "梗体中文 authors",
+        "Minecraft 中文翻译者"
+    ]
+}
