@@ -4692,7 +4692,7 @@
 	"options.prioritizeChunkUpdates.none": "多管齐下",
 	"options.prioritizeChunkUpdates.none.tooltip": "附近的区块是以平行方式被编译的。当方块被破坏时，这可能会导致简短的视觉洞。",
 	"options.rawMouseInput": "原始输入（dv/dt=0）",
-	"options.realmsNotifications": "领域的通知",
+	"options.realmsNotifications": "领域的大新闻和邀请",
 	"options.reducedDebugInfo": "tl;dr，调试信息请少一点",
 	"options.renderClouds": "云",
 	"options.renderDistance": "显卡迫害等级",
@@ -6324,5 +6324,13 @@
 	"subtitles.entity.sniffer.scenting": "Br卡车：Br",
 	"subtitles.entity.sniffer.searching": "Br卡车：搜索",
 	"subtitles.entity.sniffer.sniffing": "Br卡车：仔细的Br",
-	"subtitles.entity.sniffer.step": "Br卡车：脚步声"
+	"subtitles.entity.sniffer.step": "Br卡车：脚步声",
+	"mco.notification.dismiss": "关掉",
+	"mco.notification.visitUrl.message.default": "点开下面的链接吧",
+	"mco.notification.visitUrl.buttonText.default": "打开链接",
+	"narration.tab_navigation.usage": "在唱跳RAP篮球的状态下按下Tab切换标签页",
+	"narrator.position.tab": "已选中第%s个标签页，共%s个",
+	"options.accessibility.high_contrast": "霓虹灯效果",
+	"options.accessibility.high_contrast.tooltip": "在UI控件上加上霓虹灯",
+	"resourcePack.high_contrast.name": "霓虹灯效果"
 }
