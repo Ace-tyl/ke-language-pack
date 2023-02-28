@@ -6332,5 +6332,9 @@
 	"narrator.position.tab": "已选中第%s个标签页，共%s个",
 	"options.accessibility.high_contrast": "霓虹灯效果",
 	"options.accessibility.high_contrast.tooltip": "在UI控件上加上霓虹灯",
-	"resourcePack.high_contrast.name": "霓虹灯效果"
+	"resourcePack.high_contrast.name": "霓虹灯效果",
+	"datapackFailure.safeMode.failed.title": "没法在安全模式下加载世界。",
+	"datapackFailure.safeMode.failed.description": "这个世界的存档有点奇怪啊！",
+	"options.accessibility.high_contrast.error.tooltip": "霓虹灯资源包不可用",
+	"selectWorld.targetFolder": "存档文件夹：%s"
 }
