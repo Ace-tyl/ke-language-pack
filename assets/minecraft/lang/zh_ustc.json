@@ -4198,7 +4198,7 @@
 	"mco.configure.world.edit.subscreen.experience": "由于你当前的世界为一场体验，有些设定将会被禁用",
 	"mco.configure.world.edit.subscreen.inspiration": "由于你当前的世界是示例世界，一些设置被禁用",
 	"mco.configure.world.forceGameMode": "强制游戏模式",
-	"mco.configure.world.invite.narration": "你有%s项新的邀请",
+	"mco.configure.world.invite.narration": "你有%s个新的邀请",
 	"mco.configure.world.invite.profile.name": "名称",
 	"mco.configure.world.invited": "已邀请",
 	"mco.configure.world.invites.normal.tooltip": "垃圾普通玩家",
@@ -6267,7 +6267,7 @@
 	"block.minecraft.stripped_cherry_wood": "去皮嘤木",
 	"item.minecraft.cherry_boat": "嘤木船",
 	"block.minecraft.cherry_fence": "嘤木栅栏",
-	"item.minecraft.brush": "铜柄线镐",
+	"item.minecraft.brush": "只因毛掸子",
 	"block.minecraft.cherry_planks": "嘤木木板",
 	"block.minecraft.cherry_door": "嘤木门",
 	"block.minecraft.cherry_button": "嘤木按钮",
@@ -6338,5 +6338,10 @@
 	"options.accessibility.high_contrast.error.tooltip": "霓虹灯资源包不可用",
 	"selectWorld.targetFolder": "存档文件夹：%s",
 	"debug.dump_dynamic_textures": "已将动态纹理存进%s",
-	"debug.dump_dynamic_textures.help": "F3 + S = 存储动态纹理"
+	"debug.dump_dynamic_textures.help": "F3 + S = 存储动态纹理",
+	"credits_and_attribution.button.attribution": "著作权说明",
+	"credits_and_attribution.button.credits": "鸣谢名单",
+	"credits_and_attribution.button.licenses": "许可协议",
+	"credits_and_attribution.screen.title": "鸣谢和著作权说明",
+	"options.credits_and_attribution": "鸣谢和著作权说明…"
 }
