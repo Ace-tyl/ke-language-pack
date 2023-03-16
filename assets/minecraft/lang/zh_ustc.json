@@ -3895,7 +3895,7 @@
 	"item.minecraft.stone_hoe": "石锄",
 	"item.minecraft.stone_pickaxe": "石镐",
 	"item.minecraft.stone_shovel": "石铲铲",
-	"item.minecraft.stone_sword": "石剑",
+	"item.minecraft.stone_sword": "检验真理的唯一标准",
 	"item.minecraft.stray_spawn_egg": "生成流浪骷髅",
 	"item.minecraft.strider_spawn_egg": "生成赤足兽",
 	"item.minecraft.string": "线",
@@ -6343,5 +6343,6 @@
 	"credits_and_attribution.button.credits": "鸣谢名单",
 	"credits_and_attribution.button.licenses": "许可协议",
 	"credits_and_attribution.screen.title": "鸣谢和著作权说明",
-	"options.credits_and_attribution": "鸣谢和著作权说明…"
+	"options.credits_and_attribution": "鸣谢和著作权说明…",
+	"mco.configure.world.subscription.recurring.info": "对你的Realms订阅所做的更改（如续费和取消自动续费）将在下个结算日生效。"
 }
