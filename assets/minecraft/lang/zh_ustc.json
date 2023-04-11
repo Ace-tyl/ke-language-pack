@@ -6539,5 +6539,14 @@
 	"option.modmenu.update_checker.false": "关掉",
 	"option.modmenu.button_update_badge": "更新指示器",
 	"option.modmenu.button_update_badge.true": "显示",
-	"option.modmenu.button_update_badge.false": "隐藏"
+	"option.modmenu.button_update_badge.false": "隐藏",
+	"gui.toRealms": "返回领域列表",
+	"gui.toWorld": "返回世界列表",
+	"quickplay.error.title": "无法快速进入游戏",
+	"quickplay.error.invalid_identifier": "找不到指定ID的世界",
+	"quickplay.error.realm_connect": "连接不上领域",
+	"quickplay.error.realm_permission": "连接不上领域，因为权限不够",
+	"subtitles.block.sign.waxed_interact_fail": "告示牌：摆",
+	"subtitles.block.sniffer.egg_crack": "Br卡车生成器：我裂开来",
+	"subtitles.block.sniffer.egg_hatch": "Br卡车生成器：灵魂出窍"
 }
