@@ -6855,5 +6855,22 @@
 	"config.waila.plugin_waila.icon_position": "图标位置",
 	"config.waila.plugin_waila.icon_position_top": "上面",
 	"config.waila.plugin_waila.icon_position_middle": "中间",
-	"config.waila.plugin_waila.icon_position_bottom": "下面"
+	"config.waila.plugin_waila.icon_position_bottom": "下面",
+	"advancements.husbandry.feed_snifflet.title": "后起之Br",
+	"advancements.adventure.salvage_sherd.title": "SUS陶片",
+	"advancements.husbandry.obtain_sniffer_egg.title": "不是只因蛋",
+	"advancements.husbandry.plant_any_sniffer_seed.title": "srand(rand())",
+	"advancements.adventure.craft_decorated_pot_using_only_sherds.title": "有故事的罐头",
+	"advancements.adventure.trim_with_all_exclusive_armor_patterns.title": "亏损最大化",
+	"advancements.adventure.trim_with_any_armor_pattern.title": "浪费材料",
+	"advancements.adventure.craft_decorated_pot_using_only_sherds.description": "完全使用陶片制作一个陶罐",
+	"advancements.adventure.trim_with_any_armor_pattern.description": "将盔甲纹饰打到盔甲上，你浪费了7个钻石你知道吗？",
+	"advancements.adventure.salvage_sherd.description": "Shuasha并获得陶片",
+	"advancements.adventure.trim_with_all_exclusive_armor_patterns.description": "使用至少一次以下锻造模板：尖塔、猪鼻、肋骨、循声、油腻、恼鬼、潮汐、指路人",
+	"advancements.husbandry.feed_snifflet.description": "喂一只未成年Br卡车",
+	"advancements.husbandry.obtain_sniffer_egg.description": "获取Br卡车生成器",
+	"advancements.husbandry.plant_any_sniffer_seed.description": "种下一棵Br卡车产出的种子",
+	"item.minecraft.music_disc_relic": "CD",
+	"item.minecraft.music_disc_relic.desc": "Aaron Cherof - Relic",
+	"multiplayer.disconnect.invalid_public_key_signature.new": "无效的个人信息公钥签名。\n重启游戏试试。"
 }
