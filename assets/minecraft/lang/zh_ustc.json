@@ -6872,5 +6872,19 @@
 	"advancements.husbandry.plant_any_sniffer_seed.description": "种下一棵Br卡车产出的种子",
 	"item.minecraft.music_disc_relic": "CD",
 	"item.minecraft.music_disc_relic.desc": "Aaron Cherof - Relic",
-	"multiplayer.disconnect.invalid_public_key_signature.new": "无效的个人信息公钥签名。\n重启游戏试试。"
+	"multiplayer.disconnect.invalid_public_key_signature.new": "无效的个人信息公钥签名。\n重启游戏试试。",
+	"advancements.adventure.read_power_from_chiseled_bookshelf.title": "芝士的力量",
+	"advancements.adventure.read_power_from_chiseled_bookshelf.description": "使用红石比较器获取雕纹书架的能量",
+	"telemetry.event.advancement_made.title": "达成进度",
+	"telemetry.event.advancement_made.description": "让我们知道你达成进度前后发生了什么事情是好事。",
+	"telemetry.event.game_load_times.title": "游戏加载时间",
+	"telemetry.event.game_load_times.description": "让我们知道加载游戏每个阶段花费的时间，我们会优化（咕咕咕）的哦！",
+	"telemetry.property.advancement_id.title": "进度ID",
+	"telemetry.property.advancement_game_time.title": "游戏时间（gt）",
+	"telemetry.property.launcher_name.title": "启动器名字",
+	"telemetry.property.load_time_bootstrap_ms.title": "启动引导时间（ms）",
+	"telemetry.property.load_time_loading_overlay_ms.title": "加载屏幕显示时间（ms）",
+	"telemetry.property.load_time_pre_window_ms.title": "窗口开启前时间（ms）",
+	"telemetry.property.load_time_total_time_ms.title": "总加载时间（ms）",
+	"telemetry.property.realms_map_content.title": "领域地图内容（小游戏名字）"
 }
