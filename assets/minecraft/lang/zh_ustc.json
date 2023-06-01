@@ -6498,5 +6498,9 @@
 	"mco.errorMessage.6006": "世界已过期",
 	"mco.errorMessage.6008": "无效的领域名字",
 	"mco.errorMessage.6009": "无效的领域描述",
-	"mco.configure.world.players.inviting": "正在邀请玩家..."
+	"mco.configure.world.players.inviting": "正在邀请玩家...",
+	"gui.copy_link_to_clipboard": "复制链接到剪贴板",
+	"narrator.select.world_info": "选择了%s，上次进入游戏：%s，%s",
+	"symlink_warning.title": "世界文件夹包含符号链接",
+	"symlink_warning.message": "如果你不知道这个链接指向什么，建议不要轻举妄动。访问%s了解更多信息。"
 }
