@@ -6625,5 +6625,7 @@
 	"options.accessibility": "轻松使用设置",
 	"options.chat": "聊天设置...",
 	"options.fullscreen.entry": "%s×%s@%sHz（%s位色深）",
-	"options.language.title": "你是语言小使者知默吗"
+	"options.language.title": "你是语言小使者知默吗",
+	"trader_remind.trader.coming": "啊哈哈哈，游商来送拴绳喽！坐标：%s",
+	"trader_remind.trader.coming.sound": "游商：来喽！"
 }
