@@ -2,8 +2,8 @@
     "pack": {
         "pack_format": 15,
         "supported_formats": {
-            "min_inclusive": 7,
-            "max_inclusive": 18
+            "min_inclusive": 5,
+            "max_inclusive": 114
         },
         "description": "§e这是一个神奇的语言包\n§3来自 USTC Minecraft"
     },
