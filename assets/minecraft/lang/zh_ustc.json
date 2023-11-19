@@ -6805,5 +6805,20 @@
 	"subtitles.block.trial_spawner.open_shutter": "失恋刷怪笼：启动",
 	"subtitles.block.trial_spawner.spawn_mob": "生物：生成",
 	"subtitles.entity.generic.wind_burst": "铿弹：裂开",
-	"subtitles.entity.parrot.imitate.breeze": "咕咕咕：呼啸"
+	"subtitles.entity.parrot.imitate.breeze": "咕咕咕：呼啸",
+	"argument.style.invalid": "无效的样式：%s",
+	"commands.kick.singleplayer.failed": "你总不能把你自己踢了吧",
+	"commands.scoreboard.objectives.modify.displayAutoUpdate.disable": "已关闭记分项%s的展示自动更新",
+	"commands.scoreboard.objectives.modify.displayAutoUpdate.enable": "已启动记分项%s的展示自动更新",
+	"commands.scoreboard.objectives.modify.objectiveFormat.clear": "已清除记分项%s的默认数字格式",
+	"commands.scoreboard.objectives.modify.objectiveFormat.set": "已修改记分项%s的默认数字格式",
+	"commands.scoreboard.players.display.name.clear.success.multiple": "已清除%s个实体在%s中的显示名称",
+	"commands.scoreboard.players.display.name.clear.success.single": "已清除%s在%s中的显示名称",
+	"commands.scoreboard.players.display.name.set.success.multiple": "已将%2$s个实体在%3$s中的显示名称修改为%1$s",
+	"commands.scoreboard.players.display.name.set.success.single": "已将%2$s在%3$s中的显示名称修改为%1$s",
+	"commands.scoreboard.players.display.numberFormat.clear.success.multiple": "已清除%s个实体在%s中的数字格式",
+	"commands.scoreboard.players.display.numberFormat.clear.success.single": "已清除%s在%s中的数字格式",
+	"commands.scoreboard.players.display.numberFormat.set.success.multiple": "已修改%s个实体在%s中的数字格式",
+	"commands.scoreboard.players.display.numberFormat.set.success.single": "已修改%s在%s中的数字格式",
+	"options.accessibility.narrator_hotkey.mac.tooltip": "允许使用“Command+B”启动或关掉复读机功能"
 }
