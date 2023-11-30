@@ -6820,5 +6820,11 @@
 	"commands.scoreboard.players.display.numberFormat.clear.success.single": "已清除%s在%s中的数字格式",
 	"commands.scoreboard.players.display.numberFormat.set.success.multiple": "已修改%s个实体在%s中的数字格式",
 	"commands.scoreboard.players.display.numberFormat.set.success.single": "已修改%s在%s中的数字格式",
-	"options.accessibility.narrator_hotkey.mac.tooltip": "允许使用“Command+B”启动或关掉复读机功能"
+	"options.accessibility.narrator_hotkey.mac.tooltip": "允许使用“Command+B”启动或关掉复读机功能",
+	"block.minecraft.short_grass": "小草",
+	"download.pack.progress.bytes": "进度：%s（总大小不知道）",
+	"download.pack.progress.percent": "进度：%s%%",
+	"download.pack.title": "正在下载资源包%s/%s",
+	"download.pack.failed": "%2$s个包中有%1$s个下载失败",
+	"commands.tick.status.lagging": "游戏要被你卡死啦！"
 }
